@@ -1,9 +1,14 @@
-<style>
-<body>
-</body>
+body{
+  background-color: moccasin;
+}
+<head style="text-align:center;">Centered paragraph.</head>
 
-{style: ;
-border-color: blue;
-  border-width: .25em;
-   {} double;
-  Background-color:Blue;
+.form_group{
+clear: both;
+text-align: center;
+margin: auto;
+}
+
+.form_group input {
+clear: both;
+}
