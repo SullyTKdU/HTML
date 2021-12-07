@@ -1,0 +1,37 @@
+  </head>
+
+
+<center>
+
+
+
+  <body> 
+  
+
+    <form>
+    <div class = "form_group">    
+         <label>Student ID:</label>    
+         <input type = "text" name = "SID" value = "" required/>   
+</div>
+<br>
+<div>
+          <div class = "form_group">    
+         <label>Forename:</label>    
+         <input type = "text" name = "fname" value = "" required/>   
+
+</div>
+<br>
+          <div class = "form_group">
+        <label> Surname:</label>
+        <input type = "text" name = "sname" value = ""
+        required/>
+
+ </div>
+<br>
+<div class = "form_group">
+        <label>    Age:    </label>
+        <input type = "text" name = "AGE" value = ""
+        required/>
+
+    <center>
+<br>
